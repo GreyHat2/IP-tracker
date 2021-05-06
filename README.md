@@ -1,2 +1,2 @@
 # IP-tracker
-IP tracking tool
+Run the index.html
