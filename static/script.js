@@ -6,6 +6,7 @@ const timezone = document.getElementById("timezone")
 const region = document.getElementById("region")
 const org = document.getElementById("org")
 
+// Currently burned out to comment the code but it's simple enough to understand.
 
 function search() {
     let ip = document.getElementById("ip").value;
